@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\AcoBradica\\source\\repos\\AutomationPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A28EA05-16BB-4CF9-AEA0-5D79A9484660}|AutomationPractice.csproj|c:\\users\\acobradica\\source\\repos\\automationpractice\\stepdefinitions\\loginsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A28EA05-16BB-4CF9-AEA0-5D79A9484660}|AutomationPractice.csproj|solutionrelative:stepdefinitions\\loginsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A28EA05-16BB-4CF9-AEA0-5D79A9484660}|AutomationPractice.csproj|c:\\users\\acobradica\\source\\repos\\automationpractice\\stepdefinitions\\searchsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A28EA05-16BB-4CF9-AEA0-5D79A9484660}|AutomationPractice.csproj|solutionrelative:stepdefinitions\\searchsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A28EA05-16BB-4CF9-AEA0-5D79A9484660}|AutomationPractice.csproj|c:\\users\\acobradica\\source\\repos\\automationpractice\\pages\\myaccountpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A28EA05-16BB-4CF9-AEA0-5D79A9484660}|AutomationPractice.csproj|solutionrelative:pages\\myaccountpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A28EA05-16BB-4CF9-AEA0-5D79A9484660}|AutomationPractice.csproj|c:\\users\\acobradica\\source\\repos\\automationpractice\\features\\addtocart.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5A28EA05-16BB-4CF9-AEA0-5D79A9484660}|AutomationPractice.csproj|solutionrelative:features\\addtocart.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A28EA05-16BB-4CF9-AEA0-5D79A9484660}|AutomationPractice.csproj|c:\\users\\acobradica\\source\\repos\\automationpractice\\pages\\dashboardpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A28EA05-16BB-4CF9-AEA0-5D79A9484660}|AutomationPractice.csproj|solutionrelative:pages\\dashboardpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A28EA05-16BB-4CF9-AEA0-5D79A9484660}|AutomationPractice.csproj|c:\\users\\acobradica\\source\\repos\\automationpractice\\features\\search.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5A28EA05-16BB-4CF9-AEA0-5D79A9484660}|AutomationPractice.csproj|solutionrelative:features\\search.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A28EA05-16BB-4CF9-AEA0-5D79A9484660}|AutomationPractice.csproj|c:\\users\\acobradica\\source\\repos\\automationpractice\\stepdefinitions\\loginsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A28EA05-16BB-4CF9-AEA0-5D79A9484660}|AutomationPractice.csproj|solutionrelative:stepdefinitions\\loginsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A28EA05-16BB-4CF9-AEA0-5D79A9484660}|AutomationPractice.csproj|c:\\users\\acobradica\\source\\repos\\automationpractice\\pages\\authenticationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,16 +31,12 @@
       "RelativeMoniker": "D:0:0:{5A28EA05-16BB-4CF9-AEA0-5D79A9484660}|AutomationPractice.csproj|solutionrelative:features\\loginfeature.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A28EA05-16BB-4CF9-AEA0-5D79A9484660}|AutomationPractice.csproj|c:\\users\\acobradica\\source\\repos\\automationpractice\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A28EA05-16BB-4CF9-AEA0-5D79A9484660}|AutomationPractice.csproj|solutionrelative:pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A28EA05-16BB-4CF9-AEA0-5D79A9484660}|AutomationPractice.csproj|c:\\users\\acobradica\\source\\repos\\automationpractice\\hooks\\seleniumbindings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A28EA05-16BB-4CF9-AEA0-5D79A9484660}|AutomationPractice.csproj|solutionrelative:hooks\\seleniumbindings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5A28EA05-16BB-4CF9-AEA0-5D79A9484660}|AutomationPractice.csproj|c:\\users\\acobradica\\source\\repos\\automationpractice\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A28EA05-16BB-4CF9-AEA0-5D79A9484660}|AutomationPractice.csproj|solutionrelative:implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A28EA05-16BB-4CF9-AEA0-5D79A9484660}|AutomationPractice.csproj|c:\\users\\acobradica\\source\\repos\\automationpractice\\pages\\searchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A28EA05-16BB-4CF9-AEA0-5D79A9484660}|AutomationPractice.csproj|solutionrelative:pages\\searchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,32 +46,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MyAccountPage.cs",
-              "DocumentMoniker": "C:\\Users\\AcoBradica\\source\\repos\\AutomationPractice\\Pages\\MyAccountPage.cs",
-              "RelativeDocumentMoniker": "Pages\\MyAccountPage.cs",
-              "ToolTip": "C:\\Users\\AcoBradica\\source\\repos\\AutomationPractice\\Pages\\MyAccountPage.cs",
-              "RelativeToolTip": "Pages\\MyAccountPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SearchSteps.cs",
+              "DocumentMoniker": "C:\\Users\\AcoBradica\\source\\repos\\AutomationPractice\\StepDefinitions\\SearchSteps.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\SearchSteps.cs",
+              "ToolTip": "C:\\Users\\AcoBradica\\source\\repos\\AutomationPractice\\StepDefinitions\\SearchSteps.cs",
+              "RelativeToolTip": "StepDefinitions\\SearchSteps.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAvwC4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T08:56:55.441Z",
+              "WhenOpened": "2024-09-14T10:22:10.583Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "LoginSteps.cs",
+              "DocumentMoniker": "C:\\Users\\AcoBradica\\source\\repos\\AutomationPractice\\StepDefinitions\\LoginSteps.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\LoginSteps.cs",
+              "ToolTip": "C:\\Users\\AcoBradica\\source\\repos\\AutomationPractice\\StepDefinitions\\LoginSteps.cs",
+              "RelativeToolTip": "StepDefinitions\\LoginSteps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T10:46:54.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AuthenticationPage.cs",
               "DocumentMoniker": "C:\\Users\\AcoBradica\\source\\repos\\AutomationPractice\\Pages\\AuthenticationPage.cs",
               "RelativeDocumentMoniker": "Pages\\AuthenticationPage.cs",
               "ToolTip": "C:\\Users\\AcoBradica\\source\\repos\\AutomationPractice\\Pages\\AuthenticationPage.cs",
               "RelativeToolTip": "Pages\\AuthenticationPage.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwCEAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T08:36:22.471Z",
+              "WhenOpened": "2024-09-14T10:45:31.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddToCart.feature",
+              "DocumentMoniker": "C:\\Users\\AcoBradica\\source\\repos\\AutomationPractice\\Features\\AddToCart.feature",
+              "RelativeDocumentMoniker": "Features\\AddToCart.feature",
+              "ToolTip": "C:\\Users\\AcoBradica\\source\\repos\\AutomationPractice\\Features\\AddToCart.feature",
+              "RelativeToolTip": "Features\\AddToCart.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALmSURBVDhPrVPtS1NRGP/du\u002B3uxde5Od\u002B1bL4URmFBhREKqURZH3r9EkSfgj4U\u002BKUPfYhAhMCC6EP1BwTVtxBBgrQQwjJ0URbiSsumzKmsbfdud/d6O\u002BeZS1cQEnvOfnfP\u002BZ3zPOec50UAk\u002B571wzJoXEVS8oCDDY2IwIbLnspVNlM877LvRCu3u02gqYRdO7dTWRpnofvZMI/acdE/CFsjf0WIkEMjk0Q49FaIFy4c9LoaitHo7ueSFVP/Da3mp30r\u002BoRiIIFNosL0cQccWmRTFZ8Dk2R/mwoAJG0LIoYVPzItdqgaDHCqqFDW9XYjeyo9ZwhuHOb4czZgWrXUcZbCQLMtJfbcHsO7kvUDY2eyAPMh0m0o7zwIEwmG0KRCYIoWqCvJrEUfY98\u002BxZCQ9l5FgL3mlUqyrqR5E/ODLjVnI\u002BinJ2oLupAKOojBCPvsCJ/wmJkHDnWSkJEmUFSj2ZWBFP/iqGsBjEdfIxvy4PsSSpB02PshnEWCgWR\u002BAyB63ZL8ZrVumQ/Keu1lhKruRBez2lUOdshCGaCQyoj8DVV\u002B0lw5e6C09HIzDPt6Yac4rHggz9lOTaJ2aUBePKaCTxJNksR6krOsqerhI\u002BBB/i\u002B8pwduCEHTBcLJA8Smpr2SrGaD48wLkyFzJHUZcQSAYb51CZ\u002BNCsZLvyCcWbPUSAVQzjXc8rY2hRC27Z9tMFhdlAhmEQTJMlGnJbUWbco3A1b2Rh2A7ImY8g/SrMvH9zZT4pw/f4N4/XXFyiuTBIhSnHU1jjQUdGOGOsCLqOBcfh/hFmHZJ7PbxxXDATnJJq31B5OVfXLN6\u002BM2cVU0z8Ze4jjrWWwsU4ZnpokLjxXgs6mE/BNT2JxJUQcbzveFPU1XhzYvoe4rtZj6ym62HOJRxtJzyjqKtx462NJUby09vTmo8x2\u002BofQxv7hfqNvoJeIqoYYFvz5aCrZj9tXbm3aUVqynhRyGJVlJOI6we8rwCHvkf\u002B6HQD8AnF2O2/bC\u002BBFAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-09-14T10:43:15.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SearchPage.cs",
+              "DocumentMoniker": "C:\\Users\\AcoBradica\\source\\repos\\AutomationPractice\\Pages\\SearchPage.cs",
+              "RelativeDocumentMoniker": "Pages\\SearchPage.cs",
+              "ToolTip": "C:\\Users\\AcoBradica\\source\\repos\\AutomationPractice\\Pages\\SearchPage.cs",
+              "RelativeToolTip": "Pages\\SearchPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T10:22:55.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Search.feature",
+              "DocumentMoniker": "C:\\Users\\AcoBradica\\source\\repos\\AutomationPractice\\Features\\Search.feature",
+              "RelativeDocumentMoniker": "Features\\Search.feature",
+              "ToolTip": "C:\\Users\\AcoBradica\\source\\repos\\AutomationPractice\\Features\\Search.feature",
+              "RelativeToolTip": "Features\\Search.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALmSURBVDhPrVPtS1NRGP/du\u002B3uxde5Od\u002B1bL4URmFBhREKqURZH3r9EkSfgj4U\u002BKUPfYhAhMCC6EP1BwTVtxBBgrQQwjJ0URbiSsumzKmsbfdud/d6O\u002BeZS1cQEnvOfnfP\u002BZ3zPOec50UAk\u002B571wzJoXEVS8oCDDY2IwIbLnspVNlM877LvRCu3u02gqYRdO7dTWRpnofvZMI/acdE/CFsjf0WIkEMjk0Q49FaIFy4c9LoaitHo7ueSFVP/Da3mp30r\u002BoRiIIFNosL0cQccWmRTFZ8Dk2R/mwoAJG0LIoYVPzItdqgaDHCqqFDW9XYjeyo9ZwhuHOb4czZgWrXUcZbCQLMtJfbcHsO7kvUDY2eyAPMh0m0o7zwIEwmG0KRCYIoWqCvJrEUfY98\u002BxZCQ9l5FgL3mlUqyrqR5E/ODLjVnI\u002BinJ2oLupAKOojBCPvsCJ/wmJkHDnWSkJEmUFSj2ZWBFP/iqGsBjEdfIxvy4PsSSpB02PshnEWCgWR\u002BAyB63ZL8ZrVumQ/Keu1lhKruRBez2lUOdshCGaCQyoj8DVV\u002B0lw5e6C09HIzDPt6Yac4rHggz9lOTaJ2aUBePKaCTxJNksR6krOsqerhI\u002BBB/i\u002B8pwduCEHTBcLJA8Smpr2SrGaD48wLkyFzJHUZcQSAYb51CZ\u002BNCsZLvyCcWbPUSAVQzjXc8rY2hRC27Z9tMFhdlAhmEQTJMlGnJbUWbco3A1b2Rh2A7ImY8g/SrMvH9zZT4pw/f4N4/XXFyiuTBIhSnHU1jjQUdGOGOsCLqOBcfh/hFmHZJ7PbxxXDATnJJq31B5OVfXLN6\u002BM2cVU0z8Ze4jjrWWwsU4ZnpokLjxXgs6mE/BNT2JxJUQcbzveFPU1XhzYvoe4rtZj6ym62HOJRxtJzyjqKtx462NJUby09vTmo8x2\u002BofQxv7hfqNvoJeIqoYYFvz5aCrZj9tXbm3aUVqynhRyGJVlJOI6we8rwCHvkf\u002B6HQD8AnF2O2/bC\u002BBFAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-09-14T10:21:47.059Z",
               "EditorCaption": ""
             },
             {
@@ -78,22 +143,9 @@
               "RelativeDocumentMoniker": "Pages\\DashBoardPage.cs",
               "ToolTip": "C:\\Users\\AcoBradica\\source\\repos\\AutomationPractice\\Pages\\DashBoardPage.cs",
               "RelativeToolTip": "Pages\\DashBoardPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBIAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T08:16:17.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BasePage.cs",
-              "DocumentMoniker": "C:\\Users\\AcoBradica\\source\\repos\\AutomationPractice\\Pages\\BasePage.cs",
-              "RelativeDocumentMoniker": "Pages\\BasePage.cs",
-              "ToolTip": "C:\\Users\\AcoBradica\\source\\repos\\AutomationPractice\\Pages\\BasePage.cs",
-              "RelativeToolTip": "Pages\\BasePage.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T08:15:40.735Z",
               "EditorCaption": ""
             },
             {
@@ -111,50 +163,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginSteps.cs",
-              "DocumentMoniker": "C:\\Users\\AcoBradica\\source\\repos\\AutomationPractice\\StepDefinitions\\LoginSteps.cs",
-              "RelativeDocumentMoniker": "StepDefinitions\\LoginSteps.cs",
-              "ToolTip": "C:\\Users\\AcoBradica\\source\\repos\\AutomationPractice\\StepDefinitions\\LoginSteps.cs",
-              "RelativeToolTip": "StepDefinitions\\LoginSteps.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwDsAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T08:09:39.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "LoginFeature.feature",
               "DocumentMoniker": "C:\\Users\\AcoBradica\\source\\repos\\AutomationPractice\\Features\\LoginFeature.feature",
               "RelativeDocumentMoniker": "Features\\LoginFeature.feature",
               "ToolTip": "C:\\Users\\AcoBradica\\source\\repos\\AutomationPractice\\Features\\LoginFeature.feature",
               "RelativeToolTip": "Features\\LoginFeature.feature",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALmSURBVDhPrVPtS1NRGP/du\u002B3uxde5Od\u002B1bL4URmFBhREKqURZH3r9EkSfgj4U\u002BKUPfYhAhMCC6EP1BwTVtxBBgrQQwjJ0URbiSsumzKmsbfdud/d6O\u002BeZS1cQEnvOfnfP\u002BZ3zPOec50UAk\u002B571wzJoXEVS8oCDDY2IwIbLnspVNlM877LvRCu3u02gqYRdO7dTWRpnofvZMI/acdE/CFsjf0WIkEMjk0Q49FaIFy4c9LoaitHo7ueSFVP/Da3mp30r\u002BoRiIIFNosL0cQccWmRTFZ8Dk2R/mwoAJG0LIoYVPzItdqgaDHCqqFDW9XYjeyo9ZwhuHOb4czZgWrXUcZbCQLMtJfbcHsO7kvUDY2eyAPMh0m0o7zwIEwmG0KRCYIoWqCvJrEUfY98\u002BxZCQ9l5FgL3mlUqyrqR5E/ODLjVnI\u002BinJ2oLupAKOojBCPvsCJ/wmJkHDnWSkJEmUFSj2ZWBFP/iqGsBjEdfIxvy4PsSSpB02PshnEWCgWR\u002BAyB63ZL8ZrVumQ/Keu1lhKruRBez2lUOdshCGaCQyoj8DVV\u002B0lw5e6C09HIzDPt6Yac4rHggz9lOTaJ2aUBePKaCTxJNksR6krOsqerhI\u002BBB/i\u002B8pwduCEHTBcLJA8Smpr2SrGaD48wLkyFzJHUZcQSAYb51CZ\u002BNCsZLvyCcWbPUSAVQzjXc8rY2hRC27Z9tMFhdlAhmEQTJMlGnJbUWbco3A1b2Rh2A7ImY8g/SrMvH9zZT4pw/f4N4/XXFyiuTBIhSnHU1jjQUdGOGOsCLqOBcfh/hFmHZJ7PbxxXDATnJJq31B5OVfXLN6\u002BM2cVU0z8Ze4jjrWWwsU4ZnpokLjxXgs6mE/BNT2JxJUQcbzveFPU1XhzYvoe4rtZj6ym62HOJRxtJzyjqKtx462NJUby09vTmo8x2\u002BofQxv7hfqNvoJeIqoYYFvz5aCrZj9tXbm3aUVqynhRyGJVlJOI6we8rwCHvkf\u002B6HQD8AnF2O2/bC\u002BBFAAAAAElFTkSuQmCC",
               "WhenOpened": "2024-09-14T08:08:55.11Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SeleniumBindings.cs",
-              "DocumentMoniker": "C:\\Users\\AcoBradica\\source\\repos\\AutomationPractice\\Hooks\\SeleniumBindings.cs",
-              "RelativeDocumentMoniker": "Hooks\\SeleniumBindings.cs",
-              "ToolTip": "C:\\Users\\AcoBradica\\source\\repos\\AutomationPractice\\Hooks\\SeleniumBindings.cs",
-              "RelativeToolTip": "Hooks\\SeleniumBindings.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T08:04:10.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
